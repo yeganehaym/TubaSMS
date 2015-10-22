@@ -6,7 +6,7 @@ this class give you ability to
 
 1- send sms
 
-2-delivered report
+2-delivery report
 
 3- get credits
 
@@ -61,7 +61,7 @@ tubaSms.GetDelivered("xxx", smsId);
 //recieve
  tubaSms.Recieve200LastMessages("xxx");
  
- //just for web (you need to define your url on tuba system
+ //just for web (you need to define your url on tuba system)
  tubaSms.RecieveMessage();
 
 
